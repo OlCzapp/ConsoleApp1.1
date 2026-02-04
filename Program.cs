@@ -2,7 +2,6 @@
 {
     public void Metoda()
     {
-        int liczba = 42;
-        System.Console.WriteLine($"Wartość liczby to: {liczba}");
+        System.Console.WriteLine("test praktyczny 2025 czerwiec zad 2");
     }
 }
